@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 1. Use `composer update` to install all dependencies
 2. Customize `config/Config.php`
