@@ -1,0 +1,22 @@
+{
+  "name": "ohavryshkiv/publons-parser",
+  "description": "Parser of Authors and Publications from Publons",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Oleksii Havryshkiv",
+      "email": "wogy.wogy14@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "ext-pdo": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  }
+}
